@@ -1,5 +1,5 @@
 [app]
-title = Smart Fuel Calculator
+title = Fuel Calculator
 package.name = fuelcalculator
 package.domain = org.fuelcalculator
 
